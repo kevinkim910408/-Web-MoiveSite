@@ -1,0 +1,54 @@
+.wrap{
+    background-color: #000;
+}
+
+.header, 
+.footer{
+    width: 100%;
+    background-image: url("https://www.ppt-backgrounds.net/thumbs/for--black-and-red-stripes-powerpoint.jpeg");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: #fff;
+    font-weight: 700;
+    font-size: 50px;
+    text-shadow: 2px 2px #ff0000;
+}
+.header{
+    height: 300px;
+    
+}
+
+.loading{
+    width: 100%;
+}
+
+.movieCardsGroup{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    background-color: grey;
+    opacity: 80%;
+    border: 40px solid grey;
+}
+.swiper-button-prev::after,
+.swiper-button-next::after{
+    color:#fff;
+    font-weight: 700;
+  
+}
+
+.movieCatagory{
+    color: #fff;
+    font-size: 20px;
+    
+}

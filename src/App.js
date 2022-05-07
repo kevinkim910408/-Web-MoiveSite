@@ -8,6 +8,7 @@ import {
 
 import Home from './routes/Home';
 import Detail from './routes/Detail';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return  <Router>
