@@ -1,10 +1,19 @@
-#MoviePedia
+# MoviePedia
+- https://kevinkim910408.github.io/movie/
+- <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=HTML5&logoColor=E34F26"/>
+- <img src="https://img.shields.io/badge/Css3-yellowgreen?style=flat&logo=Css3&logoColor=1572B6"/>
+- <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 - <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=61DAFB"/>
-- <img src="https://img.shields.io/badge/Css3-blue?style=flat&logo=Css3&logoColor=1572B6"/>
+- <img src="https://img.shields.io/badge/React Router-ff6994?style=flat&logo=ReactRouter&logoColor=CA4245"/>
+- <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=339933"/>
+- <img src="https://img.shields.io/badge/Swiper-blueviolet?style=flat&logo=Swiper&logoColor=6332F6"/>
+- <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=flat&logo=Bootstrap&logoColor=7952B3"/>
 
+# Main Page
+![output-onlinepngtools](https://user-images.githubusercontent.com/59503331/167268304-28cbce3e-4c78-4c35-a254-f23429d919db.png)
 
-
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
+# Detail Page
+![kevinkim910408 github io_movie_41158](https://user-images.githubusercontent.com/59503331/167268432-28f9a8d0-4831-4a1d-8dc3-bfa7a6951760.png)
 
 # Getting Started with Create React App
 
@@ -47,32 +56,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
